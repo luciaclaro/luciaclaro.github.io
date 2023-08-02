@@ -1,0 +1,30 @@
+body {
+    font-family: Roboto;
+    background-image: url(imgs/fondo.jpg); 
+    /* <a href="https://www.freepik.es/foto-gratis/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_11712558.htm#query=fondo%20negro&position=0&from_view=search&track=ais">Imagen de benzoix</a> en Freepik */
+    color: white;
+    padding: 20px 50px 50px 50px;
+}
+
+div h1, div h2{
+    color: turquoise;
+}
+
+h2 {
+    font-weight: 200;
+}
+
+div b, a {
+    color: pink;
+}
+
+p.titulo {
+    color: pink;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+a:hover {
+    color: aqua;
+}
+
